@@ -34,6 +34,4 @@ Uso
 1. Acesse o aplicativo em http://localhost:8050
 2. Navegue pelas diferentes visualizações de dados
 
-Contribuição
 
-Contribuições são bem-vindas! Envie um pull request com suas alterações.
