@@ -1,10 +1,10 @@
-# Dashboard Resumo de Vendas 2024
+# Dashboard Resumo de Vendas 
 
 Aplicativo web para visualização de dados de vendas, desenvolvido com Dash, Plotly e Pandas.
 
 Descrição
 
-Este aplicativo fornece uma visão geral das vendas em 2024, incluindo:
+Este aplicativo fornece uma visão geral das vendas, incluindo:
 
 - Valor total dos pedidos por mês
 - Quantidade de pedidos por mês
