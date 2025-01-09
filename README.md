@@ -1,4 +1,4 @@
-Resumo de Vendas 2024
+# Dashboard Resumo de Vendas 2024
 
 Aplicativo web para visualização de dados de vendas, desenvolvido com Dash, Plotly e Pandas.
 
