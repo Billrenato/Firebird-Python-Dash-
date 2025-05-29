@@ -1,37 +1,46 @@
-# Dashboard Resumo de Vendas 
 
-Aplicativo web para visualização de dados de vendas, desenvolvido com Dash, Plotly e Pandas.
+# 📊 Dashboard de Vendas com Python, Dash e Firebird
 
-Descrição
+Este projeto consiste em um sistema de visualização estratégica de vendas desenvolvido com Dash, Plotly e Pandas, conectado a um banco de dados Firebird via SQLAlchemy. O objetivo é fornecer dashboards interativos e responsivos com métricas e insights sobre o desempenho comercial de uma empresa ao longo do ano.
 
-Este aplicativo fornece uma visão geral das vendas, incluindo:
+🚀 Tecnologias Utilizadas
 
-- Valor total dos pedidos por mês
-- Quantidade de pedidos por mês
-- Quantidade de vendas em 2024
-- Total de vendas em reais em 2024
-- Ranking de produtos mais vendidos
-- Ranking de vendedores por mês e ano
+    Python 3.x
+    
+    Dash
+    
+    Plotly
+    
+    Pandas
+    
+    SQLAlchemy
+    
+    Firebird
 
-Tecnologias Utilizadas
+    Dash Bootstrap Components
 
-- Dash
-- Plotly
-- Pandas
-- SQLAlchemy
-- Firebird
-- Python
+📌 Funcionalidades
 
-Instalação
+    Análise mensal de vendas por valor e quantidade
+    
+    Indicadores de performance com totais anuais
+    
+    Ranking dos produtos mais vendidos
+    
+    Desempenho por vendedor por mês e consolidado no ano
+    
+    Interface totalmente interativa com gráficos dinâmicos
 
-1. Clone o repositório: git clone 
-2. Instale as dependências: pip install -r requirements.txt
-3. Configure o arquivo config.ini com os dados de conexão ao banco
-4. Execute o aplicativo: python 
+📈 Dashboards Disponíveis
 
-Uso
-
-1. Acesse o aplicativo em http://localhost:8050
-2. Navegue pelas diferentes visualizações de dados
-
-
+    📅 Gráfico de linha: Total de vendas por mês
+    
+    📊 Gráfico de barras: Quantidade de pedidos por mês
+    
+    💰 Indicador: Total em reais vendido no ano
+    
+    🔢 Indicador: Número total de vendas
+    
+    🏆 Ranking: Top 10 produtos mais vendidos
+    
+    👨‍💼 Desempenho por vendedor: Mensal e anual
